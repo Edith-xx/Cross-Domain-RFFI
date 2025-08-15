@@ -1,6 +1,6 @@
 #Cross-Domain-RFFI
 
-Toward Robust Radio Frequency Fingerprint Identification via Adaptive Semantic Augmentation. 
+Z. Cai, Y. Wang, G. Gui and J. Sha, "Toward Robust Radio Frequency Fingerprint Identification via Adaptive Semantic Augmentation," \emph{IEEE Trans. Inf. Forensics Secur.}, vol. 20, pp. 1037--1048, 2025, doi: 10.1109/TIFS.2024.3522758.
 
 This paper introduces a cross-domain RFFI framework centered on adaptive semantic augmentation (ASA). The framework integrates a computationally efficient multi-resolution spectrogram decomposition strategy with a feature-sensitive multi-scale network. The ASA method enhances RFFI accuracy in cross-domain settings by linearly interpolating between two distinct semantic features to create new semantics for further identification. The proposed approach leverages two-dimensional discrete wavelet transform (2D-DWT) to decompose the raw spectrogram into four sub-bands, followed by a multi-scale network to extract critical semantic features for the ASA method. Simulation results show that the proposed ASA method significantly improves Unmanned Aerial Vehicle (UAV) identification performance, achieving accuracies of 93.05% and 98.90% on two different cross-domain datasets, respectively, outperforming existing data augmentation (DA) methods.
 
